@@ -1,5 +1,5 @@
 <header>
-
+<h3>
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -7,6 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 HI!!
+</h3>
 </header>
 
 <!--
@@ -17,4 +18,4 @@ HI!!
   Encourage users to open new tabs for steps!
 -->
 
-<h1>I'm Victhor the Undead. <i>I'm doing this name since the series Undead Unluck that I love is about to end in the time I'm making this. </i> Nice to meet you all. <i>Note from the me creating thi text, I didn't think HTML was needed to create this readme thing XD. Thanks web dev class. </i> I look forward to put my work here to share with you guys, though I questiont he fact that anyone might actually read this, doesn't matter or does it. Gotta leave a message in case someone does read this. XD.</h1>
+<h4>I'm Victhor the Undead. <i>I'm doing this name since the series Undead Unluck that I love is about to end in the time I'm making this. </i> Nice to meet you all. <i>Note from the me creating thi text, I didn't think HTML was needed to create this readme thing XD. Thanks web dev class. </i> I look forward to put my work here to share with you guys, though I questiont he fact that anyone might actually read this, doesn't matter or does it. Gotta leave a message in case someone does read this. XD.</h4>
